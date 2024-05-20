@@ -1,2 +1,4 @@
 # gitPractise
-my git practise
+# my git practise
+Author:Dhanush Reddy
+
