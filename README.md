@@ -1,5 +1,5 @@
 # gitPractise
  my git practise
  <br>
-Author:Dhanush Reddy
+Author:Dhanush Reddy(full-stack-developer)
 
